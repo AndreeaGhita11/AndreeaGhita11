@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I'm Andreea Ghita, a QA Automation Tester with a passion for ensuring software quality and enhancing user experiences. With a foundation in Java, Maven, TestNG, and Selenium, I specialize in automating test processes to streamline development workflows and deliver reliable software products.
+I'm Andreea Ghita, a QA Automation Tester with a passion for ensuring software quality and enhancing user experiences. With a foundation in Java, Maven, JUnit, and Selenium, I specialize in automating test processes to streamline development workflows and deliver reliable software products.
 
 ## What You'll Find Here
 
